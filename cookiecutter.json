@@ -1,0 +1,7 @@
+{
+  "env_name": "ansible-playbooks",
+  "inventory_dir_name": "env",
+  "prod_inventory_dir_name": "prod",
+  "dev_inventory_dir_name": "dev",
+  "ext_roles_dir_name": "roles-external"
+}

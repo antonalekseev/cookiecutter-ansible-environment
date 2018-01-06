@@ -1,0 +1,4 @@
+*.retry
+.DS_Store
+.vagrant
+{{cookiecutter.ext_roles_dir_name}}
